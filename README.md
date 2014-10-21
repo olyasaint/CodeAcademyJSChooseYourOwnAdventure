@@ -1,4 +1,0 @@
-CodeAcademyJSChooseYourOwnAdventure
-===================================
-
-Learning JS 
