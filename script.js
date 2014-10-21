@@ -1,7 +1,3 @@
-CodeAcademyJSChooseYourOwnAdventure
-===================================
-
-Learning JS 
 
 var age=prompt("What's your age?")
 if(age<13){console.log("You are too young to play")}else{console.log("Go on and play!")}
